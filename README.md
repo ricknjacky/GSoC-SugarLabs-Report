@@ -87,6 +87,6 @@ Lastly, Thanks to Google for organising such a great program.
 | :--------------- | :--------------------------------------------------------------------------------------------------------------------: |
 | **Organization** |                           [Sugar Labs](https://github.com/sugarlabs/)                           |
 | **Project**      | [Sugarizer Security and Availability](https://summerofcode.withgoogle.com/projects/#6282404605460480) |
-| **GitHub**       |                                       [khushal87](https://github.com/ricknjacky)                                        |
+| **GitHub**       |                                       [ricknjacky](https://github.com/ricknjacky)                                        |
 
 </div>
