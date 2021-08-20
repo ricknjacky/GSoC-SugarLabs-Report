@@ -8,7 +8,11 @@
 	</b>
 </div>
 
-In May of 2021, I was selected for Google Summer of Code'21 to work with [Sugar Labs](https://github.com/sugarlabs/). My project goals were to improve security and availabilty of Sugarizer and other projects affiliated with it namely: [Sugarizer-School-Portal-Server](https://github.com/NikhilM98/sugarizer-school-portal-server), [Sugarizer-Chart](https://github.com/NikhilM98/sugarizer-chart), [Sugarizer-School-Portal-Chart](https://github.com/NikhilM98/sugarizer-school-portal-chart) and [Sugarizer-Server](https://github.com/llaske/sugarizer-server)
+In May of 2021, I was selected for Google Summer of Code'21 to work with [Sugar Labs](https://github.com/sugarlabs/). My project goals were to improve security and availabilty of Sugarizer and other projects affiliated with it namely: 
+[Sugarizer-School-Portal-Server](https://github.com/NikhilM98/sugarizer-school-portal-server), 
+[Sugarizer-Chart](https://github.com/NikhilM98/sugarizer-chart), 
+[Sugarizer-School-Portal-Chart](https://github.com/NikhilM98/sugarizer-school-portal-chart) and 
+[Sugarizer-Server](https://github.com/llaske/sugarizer-server)
 
 <div  align="center">
 
@@ -38,7 +42,6 @@ The deliverables of the project are as follows:
 
 - [x] Learn about 2FA and TOTP code generation
 - [x] Fix current issues/features request on [Sugarizer-School-Portal](https://github.com/NikhilM98/sugarizer-school-portal-server/issues)
-  - While maintaining support on different Kubernetes providers.
 - [x] Update package/chart versions for Sugarizer School Portal.
 - [x] Migrate from deprecated [helm/mongodb-replicaset](https://github.com/helm/charts/tree/master/stable/mongodb-replicaset) chart to [bitnami/mongodb](https://github.com/bitnami/charts/tree/master/bitnami/mongodb) chart.
   - While maintaining support on different Kubernetes providers.
