@@ -60,3 +60,33 @@ The deliverables of the project are as follows:
 
 
 All of the aforementioned deliverables were attained during GSoC coding period. 🎉
+
+## 📦 Working product
+<!-- To DO -->
+## 🚀 Contributions
+<!-- To DO -->
+### Pull requests
+<!-- To DO -->
+
+## 👨 Mentors & Final Thoughts
+
+- **Nikhil Mehra** - [GitHub](https://github.com/NikhilM98).
+- **Michaël Ohayon** - [GitHub](https://github.com/mikklfr).
+
+I've learnt a lot working on this project. Thank you to my mentors for introducing me to new concepts like Kubernetes & Helm charts and helping me hone my prevailing skillsets pertaining to Software development and also their insights that saved hours of struggle with the codebase's intricacies.
+
+Looking to contribute more, in whichever I can.
+
+Lastly, Thanks to Google for organising such a great program.
+
+## 🔗 Links
+
+<div  align="center">
+
+| **Student**      |                                                    Jaikishan Brijwani                                                     |
+| :--------------- | :--------------------------------------------------------------------------------------------------------------------: |
+| **Organization** |                           [Sugar Labs](https://github.com/sugarlabs/)                           |
+| **Project**      | [Sugarizer Security and Availability](https://summerofcode.withgoogle.com/projects/#6282404605460480) |
+| **GitHub**       |                                       [khushal87](https://github.com/ricknjacky)                                        |
+
+</div>
