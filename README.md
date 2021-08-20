@@ -75,7 +75,7 @@ All of the aforementioned deliverables were attained during GSoC coding period. 
 
 I've learnt a lot working on this project. Thank you to my mentors for introducing me to new concepts like Kubernetes & Helm charts and helping me hone my prevailing skillsets pertaining to Software development and also for their insights that saved hours of struggle with the codebase's intricacies.
 
-Looking to contribute more, in whichever I can.
+Looking to contribute more, in whichever way I can.
 
 Lastly, Thanks to Google for organising such a great program.
 
