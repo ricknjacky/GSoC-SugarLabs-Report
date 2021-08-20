@@ -8,11 +8,11 @@
 	</b>
 </div>
 
-In May of 2021, I was selected for Google Summer of Code'21 to work with [Sugar Labs](https://github.com/sugarlabs/). My project goals were to improve security and availabilty of Sugarizer and other projects affiliated with it namely: 
-[Sugarizer-School-Portal-Server](https://github.com/NikhilM98/sugarizer-school-portal-server), 
-[Sugarizer-Chart](https://github.com/NikhilM98/sugarizer-chart), 
-[Sugarizer-School-Portal-Chart](https://github.com/NikhilM98/sugarizer-school-portal-chart) and 
-[Sugarizer-Server](https://github.com/llaske/sugarizer-server)
+In May of 2021, I was selected for Google Summer of Code'21 to work with [Sugar Labs](https://github.com/sugarlabs/). My project goals were to improve security and availabilty of [Sugarizer](https://github.com/llaske/sugarizer) and other projects affiliated with it namely: 
+* [Sugarizer-School-Portal-Server](https://github.com/NikhilM98/sugarizer-school-portal-server), 
+* [Sugarizer-Chart](https://github.com/NikhilM98/sugarizer-chart), 
+* [Sugarizer-School-Portal-Chart](https://github.com/NikhilM98/sugarizer-school-portal-chart) and 
+* [Sugarizer-Server](https://github.com/llaske/sugarizer-server)
 
 <div  align="center">
 
