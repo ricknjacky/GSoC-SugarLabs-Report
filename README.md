@@ -42,6 +42,13 @@ The deliverables of the project are as follows:
 
 - [x] Learn about 2FA and TOTP code generation
 - [x] Fix current issues/features request on [Sugarizer-School-Portal](https://github.com/NikhilM98/sugarizer-school-portal-server/issues)
+  - [MongoDB Replicaset chart is deprecated](https://github.com/NikhilM98/sugarizer-school-portal-server/issues/23)
+  - [No indicator for Password strength & validation, Special characters are forbidden in password](https://github.com/NikhilM98/sugarizer-school-portal-server/issues/22)
+  - [Registration confirmation Mail content is not localised](https://github.com/NikhilM98/sugarizer-school-portal-server/issues/15)
+  - [Change Server description in Dashboard home page](https://github.com/NikhilM98/sugarizer-school-portal-server/issues/25)
+  - [Verification Link is not clickable in Thunderbird](https://github.com/NikhilM98/sugarizer-school-portal-server/issues/12)
+  - [Allow accentuated & characters in school name](https://github.com/NikhilM98/sugarizer-school-portal-server/issues/28)
+  - [Allow minus character in school name](https://github.com/NikhilM98/sugarizer-school-portal-server/issues/26)
 - [x] Update package/chart versions for Sugarizer School Portal.
 - [x] Migrate from deprecated [helm/mongodb-replicaset](https://github.com/helm/charts/tree/master/stable/mongodb-replicaset) chart to [bitnami/mongodb](https://github.com/bitnami/charts/tree/master/bitnami/mongodb) chart.
   - While maintaining support on different Kubernetes providers.
